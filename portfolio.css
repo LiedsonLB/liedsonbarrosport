@@ -78,7 +78,6 @@ body {
     flex-flow: wrap;
     flex-direction: row;
     justify-content: space-around;
-    top: 0;
 }
 .card {
     color: rgb(35, 7, 100);
