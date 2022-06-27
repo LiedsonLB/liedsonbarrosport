@@ -17,10 +17,8 @@ body {
     position: relative;
     margin: auto;
     top: 80px;
-    filter: brightness(0.5);
 }
 .container img{
-    filter: grayscale();
     width: 122px;
     height: 122px;
     border-radius: 50%;
