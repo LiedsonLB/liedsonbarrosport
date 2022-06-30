@@ -89,6 +89,9 @@ h2 {
     position: relative;
     color: whitesmoke;
     cursor: pointer;
+    filter: none;
+    z-index: 1;
+    transform: scale(1.1);
 }
 #card1 {
     border-left: 5px solid ;
