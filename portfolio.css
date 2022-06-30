@@ -92,6 +92,7 @@ h2 {
     filter: none;
     z-index: 1;
     transform: scale(1.1);
+    border-bottom: 3px solid;
 }
 #card1 {
     border-left: 5px solid ;
