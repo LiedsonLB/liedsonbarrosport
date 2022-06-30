@@ -52,7 +52,7 @@ body {
 .container :hover {
     filter: none;
     z-index: 1;
-    transform: scale(1.3);
+    transform: scale(1.2);
 }
 .card {
     font-family: 'Lobster', cursive;
