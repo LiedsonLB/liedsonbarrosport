@@ -38,18 +38,16 @@ body {
 }
 .title {
     font-family: 'Lobster', cursive;
-    font-size: 20px;
+    font-size: 25px;
     position: relative;
     top: -30px;
     cursor: pointer;
     text-decoration: none;
     color: rgb(13, 1, 43);
-    border: 2px solid;
-    padding: 3px;
     width: 130px;
-    box-shadow: 4px 4px 20px 5px rgba(0, 0, 0, 0.5);
     background-color: transparent;
-    margin-left: 8px;
+    margin-left: 17px;
+    border-bottom: 3px solid;
 }
 .container :hover {
     width: 124px;
