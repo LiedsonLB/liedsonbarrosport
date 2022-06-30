@@ -80,7 +80,7 @@ body {
     color: rgb(35, 7, 100);
 }
 .card :hover{
-    color: whitesmoke;
+    color: black;
 }
 h2 {
     width: 250px;
