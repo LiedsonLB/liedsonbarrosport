@@ -115,32 +115,38 @@ h2 {
 #card1:hover {
 filter: none;
 z-index: 1;
-transform: scale(1.1); ;
+transform: scale(1.1);
+border-left: 5px solid black;
 }
 #card2:hover {
 filter: none;
 z-index: 1;
-transform: scale(1.1); ;
+transform: scale(1.1);
+border-left: 5px solid black;
 }
 #card3:hover {
 filter: none;
 z-index: 1;
-transform: scale(1.1); ;
+transform: scale(1.1);
+border-left: 5px solid black;
 }
 #card4:hover {
  filter: none;
 z-index: 1;
-transform: scale(1.1); ;
+transform: scale(1.1);
+border-left: 5px solid black;
 }
 #card5:hover {
 filter: none;
 z-index: 1;
-transform: scale(1.1); ;
+transform: scale(1.1);
+border-left: 5px solid black;
 }
 #card6:hover {
 filter: none;
 z-index: 1;
 transform: scale(1.1);
+border-left: 5px solid black;
 }
 .square{
     background-color: whitesmoke;
